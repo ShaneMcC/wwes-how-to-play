@@ -1,0 +1,11 @@
+---
+title: Holiday Roles
+url: /roles/HolidayRoles
+name: Holiday Roles
+---
+
+# Holiday Roles
+
+The Holiday Roles are a group of roles that are used in games played for the winter holiday season, and are also ocassionally used in other games with more unorthodox setups.
+
+These roles span multiple factions, and are kept in this section away from the other roles as they are less commonly used.

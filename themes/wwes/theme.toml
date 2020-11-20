@@ -1,0 +1,4 @@
+name = "wwes"
+description = "werewolv.es theme"
+homepage = "https://werewolv.es/"
+min_version = "0.25.1"

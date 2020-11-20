@@ -1,0 +1,11 @@
+---
+title: Neutral
+url: /roles/Neutral
+name: Neutral
+---
+
+# Neutral Roles
+
+The Neutral Roles are held by players who, either permanently or temporarily, are not aligned with any other faction of players having the same win condition.
+
+## Tips

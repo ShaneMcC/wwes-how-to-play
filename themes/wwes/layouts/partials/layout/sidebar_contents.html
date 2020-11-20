@@ -1,0 +1,12 @@
+{{ range sort .Site.Sections ".File.Dir" "asc" }}
+	<h4>
+		<a href="{{ .RelPermalink }}">{{ .Params.name }}</a>
+	</h4>
+	<ul>
+		{{ range sort .Pages ".File.BaseFileName" "asc" }}
+			<li>
+				<a href="{{ .RelPermalink }}">{{ .Title }}</a>
+			</li>
+		{{ end }}
+	</ul>
+{{ end }}

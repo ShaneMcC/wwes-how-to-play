@@ -1,0 +1,6 @@
+baseURL = "https://werewolv.es/guides/"
+languageCode = "en-gb"
+title = "werewolv.es how to play"
+theme = "wwes"
+disablePathToLower = true
+disableKinds = ['taxonomyTerm', 'RSS']
