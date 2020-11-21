@@ -1,7 +1,7 @@
 ---
 title: Undead
 url: /roles/Undead
-name: Undead
+name: The Undead
 ---
 
 # The Undead

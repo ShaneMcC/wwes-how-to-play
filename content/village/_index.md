@@ -1,7 +1,7 @@
 ---
 title: Village
 url: /roles/Village
-name: Village
+name: The Village
 ---
 
 # The Village

@@ -1,7 +1,7 @@
 ---
 title: Vampires
 url: /roles/Vampires
-name: Vampires
+name: The Vampires
 ---
 
 # The Vampires

@@ -1,7 +1,7 @@
 ---
 title: Coven
 url: /roles/Coven
-name: Coven
+name: The Coven
 ---
 
 # The Coven

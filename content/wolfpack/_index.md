@@ -1,7 +1,7 @@
 ---
 title: Wolfpack
 url: /roles/Wolfpack
-name: Wolfpack
+name: The Wolfpack
 ---
 
 # The Wolfpack
